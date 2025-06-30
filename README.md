@@ -254,17 +254,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS** for styling
 - **Netlify** for hosting
 
-## 📞 Support
-
-- **Documentation**: [Wiki](https://github.com/yourusername/ai-latex-editor/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-latex-editor/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-latex-editor/discussions)
-- **Email**: support@ailatexeditor.com
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/ai-latex-editor&type=Date)](https://star-history.com/#yourusername/ai-latex-editor&Date)
-
 ---
 
 **Built with ❤️ for the LaTeX community**
