@@ -35,7 +35,7 @@ A modern, intelligent LaTeX editor with AI assistance powered by Google Gemini. 
 
 ## 🚀 Live Demo
 
-**[Try it now →](https://your-netlify-url.netlify.app)**
+**[Try it now →](https://ai-latex-editor.netlify.app/)**
 
 ## 🛠️ Technology Stack
 
